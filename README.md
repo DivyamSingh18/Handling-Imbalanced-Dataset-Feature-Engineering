@@ -5,7 +5,7 @@ and class B with 10 observations. One of the rules in machine learning is, its i
 at least get it close to balance it. The main reason for this is to give equal priority to each class in laymen terms.
 
 <hr>
-####Problem with Imbalanced data 
+#### Problem with Imbalanced data 
 
 Feeding imbalanced data to your classifier can make it biased in favor of the majority class, simply because it did not have enough data to learn about the minority.
 
